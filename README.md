@@ -1,2 +1,2 @@
 # Anomaly Detection and Segmentation with Wood Data
-This project is developed under Neural Networks course.
+This project is being developed under Neural Networks course.
